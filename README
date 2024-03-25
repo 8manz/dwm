@@ -1,0 +1,13 @@
+dwm - dynamic window manager
+============================
+dwm is an extremely fast, small, and dynamic window manager for X.
+
+patches
+-------
+1. bar height
+2. tatami
+3. attachaside
+4. alttab
+5. dynamicswallow
+6. dynamicscratchpad
+7. systray
