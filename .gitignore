@@ -8,3 +8,4 @@ config.h
 drw.o
 dwm.o
 util.o
+dwm.c.rej
