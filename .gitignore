@@ -1,11 +1,3 @@
-Makefile.orig
-dwm.c.orig
-dwm.h.orig
-dwm.def.h.orig
-config.def.h.orig
-config.def.h.rej
-config.h
-drw.o
-dwm.o
-util.o
-dwm.c.rej
+*.orig
+*.rej
+*.o
